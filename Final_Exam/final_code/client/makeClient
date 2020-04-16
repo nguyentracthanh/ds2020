@@ -1,0 +1,1 @@
+gcc exec_clnt.c -o client

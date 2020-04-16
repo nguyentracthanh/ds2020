@@ -1,0 +1,1 @@
+gcc exec_svc.c -o server
