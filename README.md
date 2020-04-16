@@ -10,7 +10,7 @@ USTH ICT 2020 Distributed Systems
 
 Group Info
 =======================
-*Group 10*
+*Group 5*
 * BI8-170	Nguyễn Trác Thành 
 * BI8-188	Lê Quang Vinh
 * BI7-091	Cao Phương Linh
